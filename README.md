@@ -1,4 +1,4 @@
-# git ti
+# git ti g
 wap
 gg
 vg
