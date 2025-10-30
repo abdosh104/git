@@ -1,5 +1,5 @@
 # git ti g
-wap
+wapg
 gg
 vg
 t
